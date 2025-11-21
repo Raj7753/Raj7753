@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hey, I'm Raj <br><br>I turn caffeine and code  into solutions that actually work 
 
 
